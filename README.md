@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranjalsrivastava223
-- 👀 I’m interested in ...learning difrent computer language 
+- 👀 I’m interested in ...learning diffrent computer language 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...any startup program that can help me to grow
 - 📫 How to reach me ...manshisrivastava004@gmail.com
